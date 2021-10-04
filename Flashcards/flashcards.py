@@ -1,3 +1,4 @@
+#completed
 import json
 
 #f variable assigned to pass me-capitals.json contents with 'open' built-in function/ 

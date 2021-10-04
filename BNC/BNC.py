@@ -1,3 +1,4 @@
+#  completed
 from random import randint
 
 roles = ["Bear", "Ninja", "Cowboy"]
