@@ -1,3 +1,4 @@
+# completed
 import requests
 import random
 
